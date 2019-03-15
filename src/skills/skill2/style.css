@@ -1,0 +1,16 @@
+#mySkill2 div:focus{
+    background-color: royalblue;
+    display: inline-block;
+}
+#container-skill2 {
+    display: flex;
+}
+
+#container-skill2 div{
+    display: inline-block;
+    border-radius: 5px;
+  text-align: center;
+  background-color: violet;
+  width: 80%;
+  margin: 0 10% 0 10%;
+}

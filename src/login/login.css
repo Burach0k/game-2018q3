@@ -1,0 +1,19 @@
+input{
+    border:2px solid blueviolet;
+}
+.login-register{
+    display: inline-block;
+    width: 40vw;
+    height: 60vh;
+    margin-top: 20vh;
+    margin-left: 30vw;
+    text-align: center;
+    border-radius: 5px;
+    background-color: slategray;
+}
+
+.register_field{
+    display: inline-block;
+    width: 100%;
+    margin:50px 0;
+}

@@ -1,0 +1,15 @@
+#container-skill9 {
+  display: inline;
+  text-align: center;
+}
+#container-skill9 p {
+  margin: 0 5px;
+  border: solid 1px blueviolet;
+  background-color: steelblue;
+}
+#mySkill9 .modal-body{
+  background-color: thistle;
+}
+#container-skill9 p:focus{
+  background-color: aquamarine;
+}

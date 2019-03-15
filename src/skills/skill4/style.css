@@ -1,0 +1,18 @@
+body .skill4 {
+  background-color: slateblue;
+  text-align: center;
+  border-radius: 5px;
+}
+#task-input1 {
+  width: 50%;
+  height: 50px;
+  border-radius: 5px;
+  text-align: center;
+  margin-bottom: 40px;
+  font-size: 25px;
+}
+#voiceButton {
+  font-size: 20px;
+  width: 100px;
+  height: 60px;
+}

@@ -1,0 +1,42 @@
+{
+  "1": {
+    "correct": "red",
+    "variant": {
+      "1": "green",
+      "2": "red",
+      "3": "blue",
+      "4": "black",
+      "5":"violet"
+    }
+  },
+  "2": {
+    "correct": "blue",
+    "variant": {
+      "1": "yellow",
+      "2": "violet",
+      "3": "blue",
+      "4": "black",
+      "5":"pink"
+    }
+  },
+  "3": {
+    "correct": "purple",
+    "variant": {
+      "1": "yellow",
+      "2": "purple",
+      "3": "blue",
+      "4": "red",
+      "5":"black"
+    }
+  },
+  "4": {
+    "correct": "chocolate",
+    "variant": {
+      "1": "blue",
+      "2": "purple",
+      "3": "chocolate",
+      "4": "red",
+      "5":"pink"
+    }
+  }
+}

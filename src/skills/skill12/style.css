@@ -1,0 +1,10 @@
+#mySkill12 .modal-body{
+    background-color: teal;
+}
+#mySkill12 p{
+    display: inline-block;
+}
+
+#mySkill12 input{
+    display: inline-block;
+}

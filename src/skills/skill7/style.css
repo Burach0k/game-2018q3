@@ -1,0 +1,17 @@
+#color-skill7{
+  font-weight:bold;
+  font-size: 25px;
+}
+#container-skill7{
+    text-align: center;
+}
+#container-skill7 p{
+  background-color: steelblue;
+  display: inline-block;
+  margin: 0 5px 0 5px;
+  text-align: center;
+}
+#container-skill7 p:focus{
+border: solid 4px plum;
+box-sizing:content-box;
+}

@@ -1,0 +1,28 @@
+{
+  "1": {
+    "correct": "Кот",
+    "1": "cat",
+    "2": "tomcat",
+    "3": "kitten",
+    "4": "kit",
+    "5": "kitty"
+  },
+  "2": {
+    "correct": "собака",
+    "1": "dog",
+    "2": "hound",
+    "3": "pooch",
+    "4": "doggie",
+    "5": "doggy",
+    "6": "puppy"
+  },
+  "3": {
+    "correct": "вода",
+    "1": "water",
+    "2": "aqua"
+  },
+  "4": {
+    "correct": "one",
+    "1": "один"
+  }
+}

@@ -1,0 +1,6 @@
+#mySkill10 .modal-body{
+background-color: darkgray;
+}
+#mySkill10 p:focus{
+    background-color: violet;
+}

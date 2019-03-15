@@ -1,0 +1,15 @@
+#container-skill15 {
+    display: inline;
+    text-align: center;
+  }
+  #container-skill15 p {
+    margin: 0 5px;
+    border: solid 1px blueviolet;
+    background-color: steelblue;
+  }
+  #mySkill15 .modal-body{
+    background-color: thistle;
+  }
+  #container-skill15 p:focus{
+    background-color: aquamarine;
+  }

@@ -1,0 +1,22 @@
+
+#mySkill11 .modal-content {
+  text-align: center;
+  background-color: cadetblue;
+}
+
+#mySkill11 ul{
+  font-size:25px;
+  padding: 0;
+  display: inline-block;
+  margin:0 auto 10px ;
+}
+#mySkill11 li{
+  margin: 0 10px;
+  display: inline-block;
+ border-bottom: 2px solid rebeccapurple;
+ user-select: none;
+}
+#mySkill11 li:focus{
+ border-bottom: 5px solid rebeccapurple;
+
+}

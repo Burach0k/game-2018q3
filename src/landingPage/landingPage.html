@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Lnding Page</title>
+    <link rel="stylesheet" href="./landingPage.css" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+  </head>
+  <body>
+      <nav id="side-nav" role="navigation">
+          <ul class="nav-side-nav">
+              <a class="tooltip-side-nav" href="#section-0" title="" data-original-title="Head" data-placement="left"><li></li></a>
+              <a class="tooltip-side-nav" href="#section-1" title="" data-original-title="Head" data-placement="left"><li></li></a>
+            <a class="tooltip-side-nav" href="#section-2" title="" data-original-title="History" data-placement="left"><li></li></a>
+            <a class="tooltip-side-nav" href="#section-3" title="" data-original-title="Сontrol" data-placement="left"><li></li></a>
+            <a class="tooltip-side-nav" href="#section-4" title="" data-original-title="Author" data-placement="left"><li></li></a>            
+          </ul>
+        </nav>
+    <header id='section-0'>
+      <div class="container"><h1>Last Hero</h1></div>
+    </header>
+    <section class="history-section" id="section-1">
+      <div id="history-container">
+      <h2>История Героя</h2>
+      <p>
+        История нашего Героя начинает с давних времен, когда его учитель боевых
+        искуссв Папок Евгений принял обучать совсем юного Андрея своим
+        мастерством. Мастер Папок хоть и был стар, но своим телом владел в
+        совершенстве, однако он не мог научить Андрея логике и быстрому
+        мышлению, что так необходимо молодому герою. Одним поздним вечером,
+        когда сильно бушевал ветер и раздавались раскаты молнии, пришел лесной
+        странник - Свербут. Смотря сквозь свой темный капюшон и указывая
+        своим кривым пальцем на Андеря он сказа - Я знаю твою слабость, Андрей. Я
+        могу помочь тебе, но и ты помоги мне (кряхтит). Орки украли у меня самое
+        ценное - мазь знаменитого Кнюгашто, которая лечит мою старость.
+        Отправляйся в Орколесье, там ты встретишь орков, побеждая их ты сможешь развить
+        свою логику и критическое мышление. Ну, чего ты стоишь, не видишь, что у
+        меня спина ноет? Быстрее в Орколесье! (кряхтит) кхе кхе ...
+      </p>
+    </div>
+    </section>
+    <section class="screen-section" id="section-2">
+      <div class="slider">
+        <h2 style="background:slategrey;" >Старец предсказал такие приключения</h2>
+        <div class="slider__wrapper">
+          <div class="slider__item">
+            <div style="height: 100vh; background:slategrey;">
+                <img src="./screens/img/im1.jpg" alt="img 1">
+                </div>
+              </div>
+              <div class="slider__item">
+                <div style="height: 100vh; background: slategrey;">
+                    <img src="./screens/img/im2.jpg" alt="img 2">
+                  </div>
+              </div>
+              <div class="slider__item">
+                <div style="height: 100vh; background: slategrey;">
+                    <img src="./screens/img/im3.jpg" alt="img 3">                
+                </div>
+              </div>
+              <div class="slider__item">
+                <div style="height: 100vh; background: slategrey;">
+                    <img src="./screens/img/im4.jpg" alt="img 4">                
+                </div>
+              </div>
+            </div>
+            <a class="slider__control slider__control_left" role="button"></a>
+            <a class="slider__control slider__control_right slider__control_show" role="button"></a>
+          </div>
+    </section>
+
+    <section class="key-section" id="section-3">
+      <h2>Управление</h2>
+      <p>В игре можно использовать клавиатуру:</p>
+      <p>SPASE - вызывает окно способностей</p>
+      <p>Стрелочки помогают выбрать необходимое слово или букву</p>
+      <p>ENTER - выбирает указанынй элемент</p>
+      <p>ESC - закрывает окно</p>
+    </section>
+
+    <section class="author-section" id="section-4">
+      <h3>Автор</h3>
+      <img class="img-author" src="./screens/img/author.jpg">
+      <button id="start-game">
+        <a class="link" href="game.html">Game</a>
+      </button>
+    </section>
+    <footer class="footer-section" role="contentinfo">
+      <div class="footer-info">
+          <a class="link" href="https://vk.com/id168767414"><i id="vk" class="fab fa-vk"></i></a>
+          <a class="link" href="https://github.com/Burach0k"><i id="github" class="fab fa-github-square"></i></a>
+      </div>
+    </footer>
+
+    <script src="./script.js"></script>
+  </body>
+</html>

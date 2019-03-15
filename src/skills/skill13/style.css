@@ -1,0 +1,15 @@
+#sequence-skill13{
+    font-size: 25px;
+}
+#task-input8{
+    display: flex;
+    font-size: 25px;
+    width: 50%;
+    height: 60px;
+}
+#mySkill13 .modal-body{
+    background-color: teal;
+}
+#mySkill13 p:focus{
+    background-color: slategray;
+}

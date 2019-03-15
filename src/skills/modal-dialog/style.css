@@ -1,0 +1,66 @@
+body .modal {
+  margin: auto auto auto auto;
+  width: 800px;
+}
+
+body .skill {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+
+body .col {
+  text-align: center;
+}
+body .last {
+  margin-top: 50px;
+}
+body .modal-content {
+  border: none;
+  background: rgba(0, 0, 0, 0);
+}
+#mySkill1 .modal {
+  display: block;
+  margin: auto auto auto auto;
+}
+#mySkill1 .modal-content {
+  height: 300px;
+  text-align: center;
+  background-color: cadetblue;
+}
+#mySkill3 .modal-content {
+  text-align: center;
+  background-color: cadetblue;
+}
+#mySkill1 span {
+  font-size: 25px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+body p {
+  font-size: 30px;
+  text-align: center;
+}
+
+#contain {
+  border-radius: 5px;
+  text-align: center;
+  background-color: violet;
+  width: 80%;
+  margin: 0 10% 0 10%;
+}
+
+#contain div {
+  font-size: 40px;
+  margin: 0 5px 0 5px;
+  width: 40px;
+  text-align: center;
+  display: inline-block;
+  background-color: blueviolet;
+}
+body .img-modal {
+  border-radius: 50%;
+  user-select: none;
+  width: 70px;
+  height: 70px;
+}
